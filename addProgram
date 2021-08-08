@@ -2,5 +2,5 @@ public class Add{
 int i=0;
 int j=0;
 
-System.out.println("add "+i+j);
+System.out.println("add program result is "+i+j);
 }
